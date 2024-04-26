@@ -1,13 +1,13 @@
-Versions	
+#Versions	
 
 0.1.0
-0.1.0
+#0.1.0
 
-Major changes
+#Major changes
 
 None.
 
-Minor changes
+#Minor changes
 
 Added a changelog (#9)
 
