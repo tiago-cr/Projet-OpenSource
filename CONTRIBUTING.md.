@@ -1,14 +1,23 @@
-#Changelog
-#Versions
-0.1.0
-#0.1.0
-#Major changes
-None.
+#CONTRIBUTING
 
-#Minor changes
-Added a changelog (#9)
-#Bug & security fixes
-None.
+Calculator is seeking contributors for to emulate a calculatery.
 
-#0.1.0
-Initial release.
+How to Contribute?
+To get started, we recommend checking the Code of Conduct then the list of issues to see which problems or features are currently in progress and where your contribution could be helpfull.
+
+Contribution to the Calculator Function
+If you want to contribute follow this guideline to improve and add some features to the Calculator function:
+
+Check the open issues related to the Calculator function in the issues list. Choose an issue or feature to work on and ensure it's not already assigned to someone else.
+
+Fork the repository and create a new branch for your feature or fix.
+
+Implement your changes, following the code style and conventions of the project.
+
+Test your changes to ensure they work as expected.
+
+Submit a pull request, referencing the issue you're addressing in the PR description.
+
+We appreciate any contribution you make to Calculator, and we thank you in advance for your help!
+
+
